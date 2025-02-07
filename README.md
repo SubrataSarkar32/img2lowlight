@@ -4,7 +4,7 @@ Credit to dataset : https://www.kaggle.com/datasets/iamsouravbanerjee/animal-ima
 
 Just download above dataset and copy the final animals folder to this repos root directory to run the provided script.
 
-Mediafire download link : https://www.mediafire.com/file/eqae2avnvszrqy5/animals.7z/file (Link expires on 22 Feb, 2025)
+Mediafire direct download link : https://www.mediafire.com/file/eqae2avnvszrqy5/animals.7z/file (Link expires on 22 Feb, 2025)
 
 Credit to ChatGPT for helping out with different aspects of this project.
 
@@ -61,3 +61,20 @@ Then run either of the two conversions:
 ### ICCV_MAET (this repo implementation):
 
 ![ICCV_MAET image](./sample_images/ICCV_MAET/0a37838e99.jpg)
+
+
+## Donation
+
+If my projects helped you save your time. You can give me a cup of coffee. :)
+
+You can donate me via BHIM UPI
+
+
+![Super sub](./images/Supersub(200x200).jpg)
+
+
+Scan this QR Code to open your UPI Payment App or click on the upi logo
+
+[![Donate](./images/bhimupi(100x15).jpg)](upi://pay?pn=Subrata%20Sarakar&pa=9002824700%40upi&tn=Donation&am=&cu=INR&url=http%3A%2F%2Fupi.link%2F)
+
+![QR code](./images/qrpay.png)
