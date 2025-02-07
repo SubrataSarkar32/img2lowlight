@@ -75,6 +75,6 @@ You can donate me via BHIM UPI
 
 Scan this QR Code to open your UPI Payment App or click on the upi logo
 
-[![Donate](./images/bhimupi(100x15).jpg)](upi://pay?pn=Subrata%20Sarakar&pa=9002824700%40upi&tn=Donation&am=&cu=INR&url=http%3A%2F%2Fupi.link%2F)
+[<img alt="donate" src='./images/bhimupi(100x15).jpg'>](upi://pay?pn=Subrata%20Sarakar&pa=9002824700%40upi&tn=Donation&am=&cu=INR&url=http%3A%2F%2Fupi.link%2F)
 
 ![QR code](./images/qrpay.png)
