@@ -1,10 +1,12 @@
-# maet-low-light-transform
+# img2lowlight
 
 Credit to dataset : https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals?resource=download
 
 Just download above dataset and copy the final animals folder to this repos root directory to run the provided script.
 
 Mediafire direct download link : https://www.mediafire.com/file/eqae2avnvszrqy5/animals.7z/file (Link expires on 22 Feb, 2025)
+
+Kaggle link to converted lowlight images : https://www.kaggle.com/datasets/subratasarkar32/low-light-animals/
 
 Credit to ChatGPT for helping out with different aspects of this project.
 
@@ -60,7 +62,7 @@ Then run either of the two conversions:
 
 ### ICCV_MAET (this repo implementation):
 
-![ICCV_MAET image](./sample_images/ICCV_MAET/0a37838e99.jpg)
+![ICCV_MAET based lowlight image](./sample_images/ICCV_MAET/0a37838e99.jpg)
 
 
 ## Donation
@@ -70,11 +72,11 @@ If my projects helped you save your time. You can give me a cup of coffee. :)
 You can donate me via BHIM UPI
 
 
-![Super sub](./images/Supersub(200x200).jpg)
+<img alt="Supersub" height="200" width="200" src="./images/Super sub.png">
 
 
 Scan this QR Code to open your UPI Payment App or click on the upi link
 
-[![UPI](./images/bhimupi(100x15).jpg)](upi://pay?pn=Subrata%20Sarakar&pa=9002824700%40upi&tn=Donation&am=&cu=INR&url=http%3A%2F%2Fupi.link%2F)
+<a href="upi://pay?pn=Subrata%20Sarakar&pa=9002824700%40upi&tn=Donation&am=&cu=INR&url=http%3A%2F%2Fupi.link%2F"><img alt="BHIM UPI" src="./images/bhimupi(100x15).jpg"></a>
 
 ![QR code](./images/qrpay.png)
