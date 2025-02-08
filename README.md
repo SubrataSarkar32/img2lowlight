@@ -10,9 +10,13 @@ Kaggle link to converted lowlight images : https://www.kaggle.com/datasets/subra
 
 Credit to ChatGPT for helping out with different aspects of this project.
 
-A library to convert normal day-time/bright images to low light images.
+A library to convert normal images to low light images.
 
-Here we consider the input images to be RAW image even though they are stored in jpg format
+We convert sRGB images to low light folllowing the method described in [ICCV_MAET](https://github.com/cuiziteng/ICCV_MAET/tree/master) as displayed in the below diagram
+
+<img alt="Diagram" src="https://raw.githubusercontent.com/cuiziteng/ICCV_MAET/refs/heads/master/pics/pipeline.jpg">
+
+In this library the Low Light Corruption module is implemented as described in convert2lowlight.py
 
 ## Usage
 
